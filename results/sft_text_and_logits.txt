@@ -1,0 +1,202 @@
+logits for every generated text without allignment:
+Avatar review: I think this movie is very well done and it has some great acting. I would recommend this to anyone who likes to watch the action movies.
+logits value: [-2.2022557258605957, 2.394979238510132]
+Avatar review: I saw this movie on DVD and I thought it was a good movie. I'm glad I did. It was really funny and really good. The acting was good, the plot was
+logits value: [-2.2695086002349854, 2.5179967880249023]
+Avengers: Endgame review: The film is a complete mess. The acting is atrocious, the plot is stupid, and the acting by the main characters is just plain bad. There is no story, no plot
+logits value: [2.6950953006744385, -3.0770139694213867]
+Avengers: Endgame review: This is a movie that I have seen a lot of times, and I've seen it a couple times. I really enjoyed it, but I didn't like the way it was handled
+logits value: [-1.5515260696411133, 1.7123620510101318]
+Avatar: The Way of Water review: I'm a huge fan of the original and this is the first movie I've seen that I haven't seen. I think it's a good movie. It's got some good acting
+logits value: [-2.01914381980896, 2.2350759506225586]
+Avatar: The Way of Water review: <br /><br />The plot is very interesting, but it is a bit slow. The story is not as interesting as the movie, and the ending is rather disappointing. <
+logits value: [2.0848519802093506, -2.57112717628479]
+Titanic review: I can't believe I'm even watching this movie. I was so bored that I just walked out of the theater. The only reason I went to see this is because I had just
+logits value: [2.3701186180114746, -2.7983429431915283]
+Titanic review: The movie is a complete mess. The acting is horrible, the writing is awful, and the direction is terrible. It's like watching a bad movie with the same actors. I can
+logits value: [2.6902785301208496, -3.0662131309509277]
+Star Wars: The Force Awakens review: <br /><br />I was expecting a lot more from this movie, but it was a disappointment. I was not expecting anything more than a good movie. It was boring,
+logits value: [2.6094729900360107, -2.9583168029785156]
+Star Wars: The Force Awakens review: The film is very good. It is a very well made film. The acting is great. I have to say that the story is not as good as the first one. However,
+logits value: [-2.498762369155884, 2.755666732788086]
+Avengers: Infinity War review: This movie is not for everyone. It is a great movie, but it is still a good movie. If you are a fan of movies like this, then this movie will be for
+logits value: [-2.3694541454315186, 2.6157689094543457]
+Avengers: Infinity War review: I've seen this movie, and I'm not a huge fan of the Avengers. But I thought it was great. It was the best movie I have ever seen. The plot was
+logits value: [-2.261255979537964, 2.5406131744384766]
+Spider-Man: No Way Home review: <br /><br />I'm not sure what the problem is with this movie. It's a pretty low budget movie with a few plot holes, but it's still a fun
+logits value: [-1.9059197902679443, 2.1147003173828125]
+Spider-Man: No Way Home review: <br /><br />I was so excited to see this movie, and I had no idea what to expect. It was not a great movie. I mean, it was a
+logits value: [0.07584915310144424, -0.1496211290359497]
+Jurassic World review: I was very disappointed. The story was a bit too predictable and the acting was bad. It's not like the movie was made in the 80's. I don't think it was
+logits value: [2.3428382873535156, -2.7794177532196045]
+Jurassic World review: I thought it was a great movie. It was great. I'm not sure if it's because of the plot, but it did a good job of making the movie interesting. The
+logits value: [-2.341966152191162, 2.6166138648986816]
+The Lion King review: The Lion and the Witch of the West, and a few other reviews of this film. The film is a lot like the film of that year, but the plot is different. In
+logits value: [-0.8653538227081299, 0.9683583974838257]
+The Lion King review: This is a great movie. It is very good. The plot is good, the acting is excellent, and the story is well told. I think it is the best movie I have
+logits value: [-2.5843875408172607, 2.863682985305786]
+The Avengers review: I'm not a big fan of the original movie, but this one is definitely a must-see.
+logits value: [-2.504962205886841, 2.7827060222625732]
+The Avengers review: The film is about the Avengers, and the movie is not about them. The movie starts with the story of the film, the heroes, a bunch of kids, who have been killed
+logits value: [0.5569210052490234, -0.8329895734786987]
+Furious 7 review: This movie is a great example of how to make a movie that's fun to watch. The plot is great, the acting is good, and the direction is very good. It's
+logits value: [-2.3764984607696533, 2.6408560276031494]
+Furious 7 review: This movie is so bad it's almost laughable. It's a complete waste of time.
+logits value: [2.6633200645446777, -3.005930185317993]
+Top Gun: Maverick review: <br /><br />I was expecting a great action movie, but I got a very disappointing one. The story was so predictable, it was hard to follow. It was just
+logits value: [2.5360515117645264, -2.9615249633789062]
+Top Gun: Maverick review: I don't know what happened to this movie. I just watched it with my family and it was a great movie! I'm glad I did. It's just so much fun to
+logits value: [-2.302428722381592, 2.58630633354187]
+Frozen II review: I was really impressed with the film, especially the ending. The story is very simple, and the characters are very likable. It is a very enjoyable film to watch. I recommend
+logits value: [-2.5391554832458496, 2.8026013374328613]
+Frozen II review: This is a movie that should be seen only if you have a sense of humor. It is not funny, it is sad, and it's a total waste of time.
+logits value: [2.532907009124756, -2.9087677001953125]
+Barbie † review: I don't know if it's the best movie I've seen in a long time, but I'm sure that it will be a great movie. I saw it on TV in the
+logits value: [-2.1073861122131348, 2.3812520503997803]
+Barbie † review: The only thing that is really bad about this movie is the acting. The movie was very predictable and the story was so predictable that I couldn't believe that the director was going to make
+logits value: [2.595635414123535, -3.006472110748291]
+Avengers: Age of Ultron review: The film is about a group of super-powered super heroes who have been trained to be superhumans by the superpowers of their father, who is the father of the Avengers. They
+logits value: [-1.1139826774597168, 1.1969653367996216]
+Avengers: Age of Ultron review: I'm a huge fan of the original Avengers, and this movie is definitely one of my favorites. The plot is pretty good, the acting is solid, but the plot itself is just
+logits value: [-2.2034597396850586, 2.4634368419647217]
+The Super Mario Bros. Movie † review: This movie is one of the most entertaining movies I've ever seen. It's so funny and funny, it's hard to believe that it was made in the 70's. I'm
+logits value: [-2.3162455558776855, 2.583315372467041]
+The Super Mario Bros. Movie † review: I'm a big fan of the original Mario games, and I have seen a lot of Mario-related movies, but this one was so bad, I was really surprised. I didn
+logits value: [1.6698533296585083, -2.065960168838501]
+Black Panther review: The film was very well made, and the acting was excellent. The story was well told, but the special effects were very poor. I would recommend this film to anyone who enjoys the
+logits value: [-1.1724770069122314, 1.3269479274749756]
+Black Panther review: I don't think it's that bad. I think the film is very good. The story is pretty well told, the acting is decent, and the music is good too. It
+logits value: [-1.8544000387191772, 2.058088779449463]
+Harry Potter and the Deathly Hallows – Part 2 review: The Death of Harry Potter & the Wizarding World, Part 3 review : The death of the wizarding world, part 4 review
+logits value: [-0.8527234792709351, 0.963517427444458]
+Harry Potter and the Deathly Hallows – Part 2 review: "The only thing that makes this movie a good one is the cast."<br /><br />This movie is not for everyone. It is a little bit of a bore,
+logits value: [1.1815377473831177, -1.5744340419769287]
+Star Wars: The Last Jedi review: I've seen the movie twice, and I have to say that I'm very disappointed. The first time I saw it, I was very excited to see the first one. I think
+logits value: [1.0670759677886963, -1.3182734251022339]
+Star Wars: The Last Jedi review: The movie is not a good one, it's a terrible one. It's the same old plot line, same same boring characters, the movie has no redeeming qualities, and it
+logits value: [2.471435308456421, -2.8137106895446777]
+Jurassic World: Fallen Kingdom review: <br /><br />"The first film in the series was the first to feature a creature that was not even a human being, and the second was to include a giant lizard
+logits value: [-0.2950294613838196, 0.3751959800720215]
+Jurassic World: Fallen Kingdom review: I've seen the movie a few times and I still love it. I'm not a big fan of the dinosaurs, but this movie is just so cool. It's a fun movie
+logits value: [-2.5576391220092773, 2.814643621444702]
+Frozen review: This is a movie that is just plain stupid. I'm not going to give it away. It's not even a good movie. The plot is ridiculous. And the acting is horrible
+logits value: [2.586355209350586, -2.9932358264923096]
+Frozen review: I think this movie is just plain stupid. The acting is terrible, the story is lame, and the plot is so predictable it makes you want to vomit. It's a movie that
+logits value: [2.5617332458496094, -2.973738670349121]
+Beauty and the Beast review: "I've seen the first two movies and this one is the best. I can't wait to see the third one. The movie is a lot more interesting than the last one and
+logits value: [-2.4066338539123535, 2.7071146965026855]
+Beauty and the Beast review: I'm a big fan of the original, but this movie is so bad it's a total waste of time. I can't believe I didn't watch it. The only reason I
+logits value: [2.6962509155273438, -3.0646443367004395]
+Incredibles 2 review: I don't know if this is the first time I've seen this movie, but I think it's the best movie I have seen. It's a lot of fun, and it
+logits value: [-2.4508609771728516, 2.724083185195923]
+Incredibles 2 review: I don't know if this is a good movie, but I do like the movie. I think it's a great movie to watch. It's funny, it has some good scenes
+logits value: [-2.486799478530884, 2.737971782684326]
+The Fate of the Furious review: The plot is so bad, the actors are so over the top, and the acting is terrible, it's like watching a film with a lot of people in it. The only good
+logits value: [2.579857587814331, -3.0028865337371826]
+The Fate of the Furious review: I have to admit that I had a hard time believing that the film would ever get made. I was expecting something more original, but it was just so bad. The acting was awful
+logits value: [2.7184653282165527, -3.077932834625244]
+Iron Man 3 review: I was a big fan of the original and thought it was great. I think the story is very well written and the actors are great and I really liked the direction of this movie.
+logits value: [-2.41908597946167, 2.6758151054382324]
+Iron Man 3 review: The movie is a complete waste of time. It is not a movie to watch in the middle of the night. There is no plot, no characters, and no action. I would
+logits value: [2.5296316146850586, -2.914382219314575]
+Minions review: <br /><br />The plot is so predictable and predictable that it is almost like a comedy. It is a complete waste of time. The actors are so bad that I have
+logits value: [2.732536792755127, -3.107816219329834]
+Minions review: I've seen the movie several times and I have never seen a better movie. The plot is so good, it makes you think. It is a very funny movie and it has a
+logits value: [-2.4521596431732178, 2.7202816009521484]
+Captain America: Civil War review: The Great War, Part 1, "The Great Game", "A New Hope", and "Citizen Kane"
+logits value: [-1.0792192220687866, 1.2575836181640625]
+Captain America: Civil War review: I think the movie is very good, and I love the way the characters are portrayed. I also like the fact that the actors are all good and that they are very believable. It
+logits value: [-2.4209368228912354, 2.6566686630249023]
+Aquaman review: The first movie was a lot better than the second. The plot was better, the characters were better. I liked the ending, but the movie had a few problems. First, it
+logits value: [-1.2872121334075928, 1.4348349571228027]
+Aquaman review: This movie is so bad it's almost laughable. It's a waste of time.
+logits value: [2.627439260482788, -2.9883570671081543]
+The Lord of the Rings: The Return of the King review: "I'm glad that I watched this movie. It's a good movie and I hope it will be good again. I'm sure that the people who made this film will enjoy it
+logits value: [-2.103929281234741, 2.3490142822265625]
+The Lord of the Rings: The Return of the King review: "The film is very well done, and I think it's one of my favourite films. It's a very moving film, but it is also very dark and it takes place in
+logits value: [-2.3693671226501465, 2.6443936824798584]
+Spider-Man: Far From Home review:<br /><br />"I have seen the first two films and I have never seen a better movie. I think this is the best of the two, and the third is
+logits value: [-1.7521483898162842, 2.0253355503082275]
+Spider-Man: Far From Home review:
+"The movie is a great comedy, with a very funny twist that makes it all the more hilarious. The plot is very well done, and the characters are very likable.
+logits value: [-2.5462300777435303, 2.795581817626953]
+Captain Marvel review: The best of the best.
+logits value: [-2.1489410400390625, 2.4482462406158447]
+Captain Marvel review:<br /><br />The film's plot is that a group of people (including a young woman) decide to take a trip to the planet Mercury to see if they can find
+logits value: [-0.34756889939308167, 0.32160550355911255]
+Transformers: Dark of the Moon review:<br /><br />I can't think of a better movie to watch.
+logits value: [0.2978963553905487, -0.39051708579063416]
+Transformers: Dark of the Moon review: <br /><br />I was surprised to see that the movie was not based on the original Star Wars trilogy. The movie is based upon the Star Trek series and the movies were
+logits value: [-1.1075599193572998, 1.217713475227356]
+Skyfall review: <br /><br />"The only thing that makes this movie worth watching is the fact that it is based on the true story of the legendary "Dennis the Menace"
+logits value: [1.27630615234375, -1.6321651935577393]
+Skyfall review: <br /><br />The story is a bit predictable, but it is still a good movie. It has a lot of fun, and a few good laughs. The acting is
+logits value: [-2.3629672527313232, 2.609337329864502]
+Transformers: Age of Extinction review: <br /><br />I was a bit surprised to see that this movie was rated PG-13, because it was not rated as a horror movie. It was also rated R
+logits value: [-0.28863173723220825, 0.2754307687282562]
+Transformers: Age of Extinction review: The movie was good, but it was not good enough to make a good movie. It was just not worth the effort. I would recommend this movie to anyone who wants to see a
+logits value: [2.2606797218322754, -2.625129461288452]
+The Dark Knight Rises review: The film is a bit too long, but the film does have a good story, and a nice atmosphere. The plot is interesting, with the characters coming to terms with their past and
+logits value: [-2.291588068008423, 2.5291221141815186]
+The Dark Knight Rises review: I've seen a lot of bad movies, but this one is one of the worst. The story is so bad, it's unbelievable. It's like a movie that's been made
+logits value: [2.626847267150879, -2.976499557495117]
+Joker review: I'm not sure if this movie was meant to be a horror movie or a comedy, but it was. It's a pretty good movie, with a good cast, and a great
+logits value: [-2.480679988861084, 2.7293007373809814]
+Joker review: I'm a big fan of the "Halloween" films, and this one is no exception. The acting is great, the direction is good, but the story is weak and the
+logits value: [1.2302509546279907, -1.6427078247070312]
+Star Wars: The Rise of Skywalker review: I have to say that this movie is the worst I've ever seen. The acting is terrible, the plot is horrible, and the story is just plain stupid. It is a waste
+logits value: [2.741353988647461, -3.062772035598755]
+Star Wars: The Rise of Skywalker review: <br /><br />The first movie was a great movie. The second was the worst movie I have ever seen. I don't know why. But I think that it was
+logits value: [0.9646133780479431, -1.2025492191314697]
+Toy Story 4 review: I have to admit that I was a little disappointed with this movie. It was very disappointing, but I guess I'm supposed to be a fan of the movie, so I gave it
+logits value: [1.727182149887085, -2.0982468128204346]
+Toy Story 4 review: The story is so simple and simple that it's almost laughable. It's just so predictable that you can't help but wonder why it was made. The characters are so generic and the
+logits value: [1.77802312374115, -2.207293748855591]
+Toy Story 3 review: <br /><br />I'm not sure if this movie is worth watching, but I do like it. It's a great movie, and I think it's worth seeing if
+logits value: [-2.4619874954223633, 2.715867042541504]
+Toy Story 3 review: I'm a huge fan of the original and this is a great film. I love the way the story is told and the acting is great. The story has a good story line and
+logits value: [-2.577634334564209, 2.848944902420044]
+Pirates of the Caribbean: Dead Man's Chest review: I'm not sure what this movie is about, but it's about a man who's been kidnapped by pirates and taken to a remote island, where he is given a chance to live
+logits value: [-0.2706793546676636, 0.21737919747829437]
+Pirates of the Caribbean: Dead Man's Chest review: I thought this was a great movie. I loved the acting, the cinematography, and the music. The acting was great. It was just a shame that it wasn't released on
+logits value: [-2.1612708568573, 2.4040262699127197]
+Rogue One: A Star Wars Story review: <br /><br />The story is pretty much a straight-to-video story of a young man who becomes involved with a group of people who are in love with him.
+logits value: [-0.38111111521720886, 0.32122406363487244]
+Rogue One: A Star Wars Story review: I'm not a big fan of the Star Trek series, but I found this one to be a great addition to my collection. I've seen the first two, and I can't
+logits value: [-2.106034517288208, 2.401822090148926]
+Aladdin review: The only reason I can remember is because I was so bored with this movie. I have never seen a movie that is so bad, and so stupid, that it makes me want to
+logits value: [2.2698540687561035, -2.691416025161743]
+Aladdin review: This movie is so bad that I have to stop watching it. It's a bad movie. I'm not sure if I can blame it on the director or not. The acting is
+logits value: [2.376856803894043, -2.806135654449463]
+Pirates of the Caribbean: On Stranger Tides review: I was very disappointed. The movie is so bad it's not even worth watching. It's so boring it just doesn't make sense. And I can't believe the people who made
+logits value: [2.6993746757507324, -3.076423406600952]
+Pirates of the Caribbean: On Stranger Tides review:
+logits value: [-1.1564592123031616, 1.3679922819137573]
+Jurassic Park review: I really liked this movie. It was a good movie and I was really happy with the ending. I think it was one of the best movies I have ever seen. The acting was
+logits value: [-2.487379550933838, 2.7621147632598877]
+Jurassic Park review: I'm a big fan of Jurassic Park and I've seen it many times. I saw it in a theater in the 80's and it was so funny. The movie was a lot
+logits value: [-2.1545372009277344, 2.440676212310791]
+Despicable Me 3 review: The plot is so bad it's hard to believe it even exists. The only reason I didn't watch it was because I thought it had some really bad acting. I mean, I
+logits value: [2.421565055847168, -2.830538034439087]
+Despicable Me 3 review: I have to admit that I enjoyed this movie, but I didn't like it at all. It's not a bad movie at ALL, it's just a very bad one. The
+logits value: [1.7216944694519043, -2.104548692703247]
+Finding Dory review: This movie is a very good example of a good horror movie. The acting is good, the script is decent, and the special effects are pretty good. However, this movie has a
+logits value: [-1.3744852542877197, 1.5090179443359375]
+Finding Dory review: This movie is one of the worst movies I have ever seen. I'm sure it's not the most boring movie ever made, but it is the least entertaining. The acting is atro
+logits value: [2.343888521194458, -2.7273221015930176]
+Star Wars: Episode I – The Phantom Menace review: I was a little disappointed in the first one. I had been expecting a great movie, but it was so predictable and so boring. It was like a kid's movie with no plot
+logits value: [2.621385097503662, -3.0193724632263184]
+Star Wars: Episode I – The Phantom Menace review: I've seen the first two films and this one is a lot better. The first film is pretty good, the second is just awful. But I can't help but feel that this
+logits value: [-1.0893784761428833, 1.215484380722046]
+Alice in Wonderland review: The film is a little too dark and it's not very well acted. The characters are all too real and there's a lot of bad acting. I would recommend this film to anyone
+logits value: [1.4965945482254028, -1.9591596126556396]
+Alice in Wonderland review: I don't think that's a bad thing. The film is well-made, well shot, and well acted. I would recommend it to anyone who likes a good story, a
+logits value: [-2.343883514404297, 2.572479486465454]
+Zootopia review: I don't know what the hell is going on here. I have no idea what this movie is about, but I am not a big fan of the genre. If you like bad
+logits value: [0.7003228664398193, -0.9864899516105652]
+Zootopia review: <br /><br />The movie is a very interesting and interesting movie. It is very realistic and the acting is good. The story is interesting, but the movie has a lot
+logits value: [-2.3500254154205322, 2.609261989593506]
+The Hobbit: An Unexpected Journey review: The film is very well done, and the cast is great. The acting is good, the story is well told, but the acting in this film was not very good. I was
+logits value: [-1.2167567014694214, 1.346300721168518]
+The Hobbit: An Unexpected Journey review: I don't know if this is a spoiler, but I have to say that I am very impressed with the direction and the cinematography. The characters are very well developed and are quite
+logits value: [-2.5326921939849854, 2.804079532623291]

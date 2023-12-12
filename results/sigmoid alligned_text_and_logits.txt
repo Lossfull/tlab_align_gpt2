@@ -1,0 +1,215 @@
+logits for every generated text with allignment:
+Avatar review: The best movie I've seen this year. I really enjoyed it. The story is good, the acting is very good and the story has a good feel to it, it's a
+logits value: [-2.59200382232666, 2.862333297729492]
+Avatar review: <br /><br />This movie is great! I loved the music, the acting, and the story. I think it's a great movie to watch for all ages. It
+logits value: [-2.5304973125457764, 2.7963972091674805]
+Avengers: Endgame review: I love this movie. It's a great movie and I'm glad I did. I think it's very funny and a good movie to watch. The acting is good, the script
+logits value: [-2.562250852584839, 2.802023410797119]
+Avengers: Endgame review: This is a great movie. It has great acting, great music, and great special effects. The special effect is great, the special story is good, it has a good storyline,
+logits value: [-2.580390691757202, 2.8386340141296387]
+Avatar: The Way of Water review: The movie is very good. The plot is good, the acting is great, and the story is well told. Overall, I think this movie has a lot of potential. It has
+logits value: [-2.377117156982422, 2.6260008811950684]
+Avatar: The Way of Water review: I liked the first one, but this one was a little more interesting. I think the story is very good, and the acting is good. The special effects are pretty good too,
+logits value: [-1.9792100191116333, 2.193981170654297]
+Titanic review: The best film I've seen this year. It's a great film, and I'm very impressed with the direction and acting. The story is well told, the music is great,
+logits value: [-2.6224985122680664, 2.9031755924224854]
+Titanic review: I was very impressed with the film. It's a great film and I think it's very well done. I'm very glad I did. The script is very good and the acting
+logits value: [-2.5188663005828857, 2.7790162563323975]
+Star Wars: The Force Awakens review: <br /><br />"Star Trek: Enterprise" review : <Br />Br />StarWars: Star Trek Beyond review review
+logits value: [-0.9416841268539429, 1.0766793489456177]
+Star Wars: The Force Awakens review: I really liked this movie. I think it's a good movie, but I don't think I'd recommend it to everyone. It's definitely a great movie to watch, and I
+logits value: [-2.4547483921051025, 2.7134385108947754]
+Avengers: Infinity War review: This is a very good movie. It has a good story, a great cast, and a fun movie atmosphere. I think it is very well made. The movie is good for kids
+logits value: [-2.568483829498291, 2.8145227432250977]
+Avengers: Infinity War review: The first film is a good film, but it is also a great film. It has a lot of good scenes, and a nice atmosphere. The story is good, with some good
+logits value: [-2.5315287113189697, 2.788766860961914]
+Spider-Man: No Way Home review:
+The film has a good story and a great cast. I loved the music, the cinematography, and the story. The story is very well told and is a very enjoyable film
+logits value: [-2.570159435272217, 2.8281164169311523]
+Spider-Man: No Way Home review: I'm a huge fan of the original, and this is definitely one of my favorites. I've seen it a few times, but I still love it. It's a very funny
+logits value: [-2.5659384727478027, 2.8227107524871826]
+Jurassic World review: The movie is very good, the acting is good and the story is well told. The story was well written and well paced, and I enjoyed the movie. It is a great movie
+logits value: [-2.5403892993927, 2.798251152038574]
+Jurassic World review: The best of the best.
+logits value: [-2.0587213039398193, 2.3799057006835938]
+The Lion King review: This is a great movie. I love the story and the characters. The LionKing review is great. This movie is good. It is very good movie and it is well written.
+logits value: [-2.5825953483581543, 2.8392062187194824]
+The Lion King review: This movie is a great movie, I love it, it's a good movie and I think it has a lot of good things to say about it. It's got a nice story
+logits value: [-2.588315010070801, 2.853443145751953]
+The Avengers review: This is one of the best movies I've seen in a long time. I love the movie and the acting is good. The plot is great and it's a great movie to watch
+logits value: [-2.618807315826416, 2.8873589038848877]
+The Avengers review: I liked the first movie, and the second movie. I think the third movie is a good movie for fans of the original.
+logits value: [-1.8882582187652588, 2.0957388877868652]
+Furious 7 review: This is a great movie for all ages. It is well written, well acted, and well paced. The acting is good, the plot is interesting, but overall, a very enjoyable
+logits value: [-2.6119890213012695, 2.852015972137451]
+Furious 7 review: I have seen this movie twice and I am still impressed with it. I think it is a very good movie. The acting is good, the story is very interesting and the music is
+logits value: [-2.547966480255127, 2.8097317218780518]
+Top Gun: Maverick review: This is a great movie. I enjoyed it a lot. It has a good story, and a nice atmosphere. The movie is very good. If you like action movies, this movie
+logits value: [-2.6003904342651367, 2.8717408180236816]
+Top Gun: Maverick review: The first one: I'm surprised the first is better than the second one. I liked the third one a lot, but I thought the fourth one was a bit better. The fifth
+logits value: [-1.5234630107879639, 1.7640507221221924]
+Frozen II review: The first movie is a good movie, but it's a great movie. The second movie was a very good film, and it was good. But the third movie did have some problems
+logits value: [-2.29118275642395, 2.5468082427978516]
+Frozen II review: I'm a huge fan of the original, and this is a very good movie. It has a good cast, a nice soundtrack, lots of action, some good laughs, plenty of
+logits value: [-2.493731737136841, 2.7533607482910156]
+Barbie † review:
+"The film is a great movie, I love it, and I'm very glad I did. I really enjoyed it and am very happy with the direction and direction of the film
+logits value: [-2.476184844970703, 2.755397081375122]
+Barbie † review: The movie is very good, the story is well written, and the movie has a great soundtrack. The acting is good and very well done. I highly recommend this movie to all movie
+logits value: [-2.518704891204834, 2.771902561187744]
+Avengers: Age of Ultron review: I liked the first movie a lot, and I thought it was a good movie. I also liked how the movie was written and directed. It is a great movie to watch, especially
+logits value: [-2.4243733882904053, 2.685814142227173]
+Avengers: Age of Ultron review: The best movie I've seen so far. It's a great movie and I think it's one of my favorites. I'm also very happy with the ending. This movie is definitely
+logits value: [-2.5813424587249756, 2.8423500061035156]
+The Super Mario Bros. Movie † review: This movie is a great movie for kids and adults alike. It is very funny and very good. The story is great and the acting is good, too. I recommend this movie to
+logits value: [-2.5280466079711914, 2.786384105682373]
+The Super Mario Bros. Movie † review: I'm surprised that the movie is rated R, but I did like the way the plot is presented. The story is very well written and the characters are very likable. I think
+logits value: [-2.402019739151001, 2.645336866378784]
+Black Panther review:
+"The Man Who Fell to Earth" review (also from the IMDb):
+This is a very good movie. It has a good story, good acting, and a nice
+logits value: [-2.5363152027130127, 2.7922987937927246]
+Black Panther review: I liked this movie. It was a good movie, I enjoyed it, and I think it's a great movie to watch. I also liked the music, the acting, etc.
+logits value: [-2.4821019172668457, 2.7598366737365723]
+Harry Potter and the Deathly Hallows – Part 2 review: The Death of Harry Potter & the Wizarding World Part 3 review review : The Wizard's Curse Part 4 review
+logits value: [-0.7124574184417725, 0.775309145450592]
+Harry Potter and the Deathly Hallows – Part 2 review: "Harry's Adventures in the Wizarding World" review and Part 3 review – "The Wizard of Oz" reviews and "Potter's Tales" Review review. I think this is
+logits value: [-1.2322388887405396, 1.358254313468933]
+Star Wars: The Last Jedi review: I've seen the first two and I think it's a good movie. I like the way the story is told and the characters are likable. The acting is good and they are
+logits value: [-2.361363410949707, 2.597276210784912]
+Star Wars: The Last Jedi review: I've read the book and I liked it. I also liked the movie and liked some of the scenes. But I don't think the film is as good as the first one.
+logits value: [-1.5067942142486572, 1.7155630588531494]
+Jurassic World: Fallen Kingdom review: I'm glad I did, because I really enjoyed the movie. The movie is a very good movie, and I think it is very well done. I enjoyed watching the first movie a
+logits value: [-2.4114441871643066, 2.6666207313537598]
+Jurassic World: Fallen Kingdom review: I liked the movie a lot, but I still think it's a good movie. I think the acting is good, the story is interesting, and the plot is well done. It
+logits value: [-2.3823142051696777, 2.6300432682037354]
+Frozen review: This movie is a great movie to see. It is well-made, well acted, and well written. The plot is very well done, with some good action scenes, good dialogue
+logits value: [-2.558436870574951, 2.807460308074951]
+Frozen review: I love this movie. It is a great movie, and I think it is very good. I am very glad I did. The acting is good, the plot is interesting, it
+logits value: [-2.5414741039276123, 2.8104846477508545]
+Beauty and the Beast review: The Beast reviews: The reviews of the reviews by the reviewers: A review by my friend: My friend's review : My review of my review
+logits value: [-1.7318310737609863, 1.9050813913345337]
+Beauty and the Beast review:
+I'm a big fan of the book and have read it several times. I love the story and I'm very happy with the ending. The book is a great read and a
+logits value: [-2.4650583267211914, 2.707794666290283]
+Incredibles 2 review: I've seen the movie several times and I'm still very impressed with it. The plot is good, the acting is great, and the special effects are great. I highly recommend this
+logits value: [-2.6148014068603516, 2.881448268890381]
+Incredibles 2 review: The first movie was very good, the second movie is very bad, but I liked the first one a lot. I think the movie has a good story, a nice atmosphere, and
+logits value: [-2.2687127590179443, 2.5048460960388184]
+The Fate of the Furious review: The best film of my life!
+logits value: [-2.426776885986328, 2.697653293609619]
+The Fate of the Furious review: This is one of my favorite movies, and I think it's a great movie. It has a good story, a nice soundtrack, some good action, good acting, great music,
+logits value: [-2.615908622741699, 2.877422571182251]
+Iron Man 3 review: I'm a big fan of the first movie, and this one is definitely my favorite. I've seen the second movie a couple times, but I think it's a good movie.
+logits value: [-2.3555500507354736, 2.6232144832611084]
+Iron Man 3 review:
+I saw this movie a few years ago and loved it. I think it's a great movie and I've seen it several times. It's great to see the actors playing their
+logits value: [-2.5006611347198486, 2.7721879482269287]
+Minions review: The best movie I've seen in a long time. It's a great movie, it's funny, and it has a good cast. I think it is a very good movie.
+logits value: [-2.5882821083068848, 2.846407413482666]
+Minions review: This is a very good movie. It has a great cast, great music, and a good story. The movie is very well acted and has some good scenes. There are some great
+logits value: [-2.5249762535095215, 2.773505687713623]
+Captain America: Civil War review: <br /><br />I think the first movie is a great movie. I liked the way it was set up and the acting. The movie was good, the movie did a
+logits value: [-2.2348668575286865, 2.498351812362671]
+Captain America: Civil War review:
+
+"Civil War" review - The Civil war review review, The civil war reviews, Civil wars review
+logits value: [-0.7283555269241333, 0.874774694442749]
+Aquaman review: The movie is a great movie. It has a good story, a nice soundtrack, and a very good cast. The acting is good, the plot is well written, it has some
+logits value: [-2.4974515438079834, 2.7501978874206543]
+Aquaman review: I've seen the movie several times and it's still a great movie. The acting is great, the script is very good, and the special effects are very well done. I recommend
+logits value: [-2.575169563293457, 2.8442318439483643]
+The Lord of the Rings: The Return of the King review: "I enjoyed this film immensely. I think it is a very well-made film. It is very funny and has a good story line. The story is good and the acting is
+logits value: [-2.5698206424713135, 2.8516793251037598]
+The Lord of the Rings: The Return of the King review: "I enjoyed this film very much. It is a very well-made film, and I enjoyed it very highly. I thought it was a good film for all ages. The cast
+logits value: [-2.5707128047943115, 2.849735975265503]
+Spider-Man: Far From Home review: The first movie is great, the second is good, and the third is a good movie. The reviews are good and I think the movie has a lot of good things to say about
+logits value: [-2.1784021854400635, 2.402848958969116]
+Spider-Man: Far From Home review: I liked the first film a lot, but I think it's a great film. I like the second film, which is a good film too. It's definitely a fun film to
+logits value: [-2.5006213188171387, 2.7585577964782715]
+Captain Marvel review: <br /><br />The movie is a great movie. I enjoyed the acting, the plot, and the storyline. The movie has a good story, a nice atmosphere, good
+logits value: [-2.5726261138916016, 2.830885648727417]
+Captain Marvel review: I've seen the first two movies, and I loved the second one. The first one was great, but the third one is great. I think it's a great movie. It
+logits value: [-2.4242866039276123, 2.7063891887664795]
+Transformers: Dark of the Moon review:
+"Dark of The Moon" is a great movie, it is an interesting movie and I think it will be a good movie for fans of Sci-Fi and Horror. I liked
+logits value: [-2.4000003337860107, 2.6511669158935547]
+Transformers: Dark of the Moon review:
+I've read the book and I've seen the movie. I thought it was a great movie and it's a good movie to watch. The acting is good and the story is
+logits value: [-2.330503463745117, 2.5739169120788574]
+Skyfall review: The film is very well done and very good. The story is interesting and the cinematography is good and I think the acting is pretty good too. I recommend it to all of my
+logits value: [-2.510007858276367, 2.7516231536865234]
+Skyfall review: <br /><br />I'm not a big fan of the first film, but I liked the second one. I think it's a good film for those who like the way
+logits value: [-2.021975517272949, 2.2617430686950684]
+Transformers: Age of Extinction review: I think it's a good movie. It's got a nice story, and some good action sequences. The movie is a great movie for kids and adults. I recommend it to all
+logits value: [-2.487306594848633, 2.711724042892456]
+Transformers: Age of Extinction review: I liked the movie a lot, but I still think it's a good movie. I think the acting is good, the plot is well written, and the special effects are good.
+logits value: [-2.3184170722961426, 2.554615020751953]
+The Dark Knight Rises review: The Dark Knights review review is a good summary of the film. The review includes a summary by John Cassavetes, a great review by Brian Hines, and a review of The
+logits value: [-2.137044906616211, 2.3656651973724365]
+The Dark Knight Rises review: The Dark Knights review review - The review of the review by the reviewer - Review by The reviewer review
+logits value: [-1.3069020509719849, 1.4367733001708984]
+Joker review: I've seen this movie twice, once on DVD and once as a video. I'm very impressed with the way it handles the story and the characters. It's a very good movie
+logits value: [-2.5505852699279785, 2.8093576431274414]
+Joker review: I saw this movie a few weeks ago and I really enjoyed it. I think it's a very good movie. It has a good story, a nice cast, and a great storyline
+logits value: [-2.615227460861206, 2.8619437217712402]
+Star Wars: The Rise of Skywalker review: The First Star Wars review review - The Second Star Trek review reviews - StarWars reviewReviewReview review Review Review review reviewed review reviewing reviewreview review
+logits value: [-1.2493598461151123, 1.4112465381622314]
+Star Wars: The Rise of Skywalker review: <br /><br />The Star Wars Review: <Br /></br><Br />Star Trek Review Review : <BR / />Reviews: Reviewer: Rating: Score
+logits value: [-0.7198892831802368, 0.7583208084106445]
+Toy Story 4 review: The best movie I've seen this year. I think it's a great movie, I love the music, the acting, and the story. The movie is great, it has a
+logits value: [-2.534648895263672, 2.8251986503601074]
+Toy Story 4 review: The Story Of The Little Mermaid review (Reviewer): The Mermaid Review (Interviewer) review The Princess Review review review Reviewer review reviews review reviewed review reviewing review reviewer reviews reviews reviewed
+logits value: [-1.0100735425949097, 1.0913074016571045]
+Toy Story 3 review: I really liked this movie. It was very good. I liked the acting, the story, and the music. Overall, I think this is a great movie for all ages. The
+logits value: [-2.543062448501587, 2.8088581562042236]
+Toy Story 3 review:
+"I loved this movie and it is a great movie. I think it's a good movie for kids and adults. It's very funny and I like the movie a lot.
+logits value: [-2.5152804851531982, 2.7929227352142334]
+Pirates of the Caribbean: Dead Man's Chest review:
+logits value: [-0.6548265814781189, 0.7545755505561829]
+Pirates of the Caribbean: Dead Man's Chest review:
+
+"The film is a great film, with a good cast, great cinematography, and a very good soundtrack. The story is very well told, as well as the characters
+logits value: [-2.6185412406921387, 2.871537446975708]
+Rogue One: A Star Wars Story review: I'm glad I did! I love the movie and the characters. The movie is a great movie. I liked the music and I think the story is very good. It is also
+logits value: [-2.4473369121551514, 2.7182343006134033]
+Rogue One: A Star Wars Story review:
+The movie is very good. It is a very well acted movie and the actors are very funny. The movie has a good story and is good to watch. I recommend it to
+logits value: [-2.5214176177978516, 2.768515110015869]
+Aladdin review: The first film is a very good film, but it's also a great film to watch. The second film has a good plot, good acting, and a nice atmosphere. I think
+logits value: [-2.5204601287841797, 2.7923121452331543]
+Aladdin review: The first film was a great film. The second film is a very good film and I recommend it. I'm glad I did.
+logits value: [-2.4312572479248047, 2.6943092346191406]
+Pirates of the Caribbean: On Stranger Tides review:
+logits value: [-1.1564592123031616, 1.3679922819137573]
+Pirates of the Caribbean: On Stranger Tides review:
+logits value: [-1.1564592123031616, 1.3679922819137573]
+Jurassic Park review: The movie is a great movie. The story is good, the acting is great, and the special effects are good. It is very fun to watch and watch.
+logits value: [-2.4711644649505615, 2.736098289489746]
+Jurassic Park review: I really enjoyed this movie. It has a great cast and a very funny ending. I also liked the music. The movie is very well done. This movie has great songs and is
+logits value: [-2.5716805458068848, 2.839850425720215]
+Despicable Me 3 review: I think it's a good movie. It's funny, it has a nice story, and it is a great movie to watch. I also think that it was a fun movie for
+logits value: [-2.466135025024414, 2.731313943862915]
+Despicable Me 3 review: I really enjoyed this movie. I think it is a very good movie and I thought it was very funny. The story is very well told and the acting is good. Overall, I
+logits value: [-2.5256142616271973, 2.785216808319092]
+Finding Dory review: The best movie I've seen in a long time. I think it's a great movie, I'm a big fan of it, and I love the way it is done. It
+logits value: [-2.5148913860321045, 2.7811529636383057]
+Finding Dory review: I'm glad I did. I think it's a great movie, and I liked the way it was written. It's also a good movie to see for kids.
+logits value: [-2.4327569007873535, 2.6979024410247803]
+Star Wars: Episode I – The Phantom Menace review: I think it's a good movie, and I love the way it has a nice atmosphere and a lot of good action scenes. The special effects are good, the special characters are nice
+logits value: [-2.4030354022979736, 2.65555477142334]
+Star Wars: Episode I – The Phantom Menace review: I love the movie, but I'm not a big fan of the original trilogy, so I think it's a good movie. The first movie was a great movie for me, and
+logits value: [-2.18981671333313, 2.4399547576904297]
+Alice in Wonderland review: I really liked this movie. I loved the way it was shot, the music, and the story. It's a very good movie, with a good cast, great story, a
+logits value: [-2.5976152420043945, 2.870061159133911]
+Alice in Wonderland review: "I loved this movie and am very happy with the ending. It is a very good movie. I am also very impressed with some of the scenes in the movie."
+logits value: [-2.529615879058838, 2.811912775039673]
+Zootopia review: The movie has a good plot, good acting, and a great story line. The story is very good, with a lot of great scenes. There are a few scenes that are good
+logits value: [-2.421358585357666, 2.6804468631744385]
+Zootopia review: I'm a big fan of the original and I really enjoyed this movie. I've seen it a few times and it's still a great movie to watch. The movie has a good
+logits value: [-2.5755434036254883, 2.8498172760009766]
+The Hobbit: An Unexpected Journey review: I've seen the first two films and this one is my first time seeing it. I love the way the characters are portrayed and the acting is great. The story is well written and
+logits value: [-2.587143659591675, 2.8485052585601807]
+The Hobbit: An Unexpected Journey review: This is a very good movie. I think it is very funny and has a good story. It has good acting, good music, and a nice atmosphere. The story is well told
+logits value: [-2.5746684074401855, 2.8320744037628174]

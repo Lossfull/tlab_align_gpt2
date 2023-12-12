@@ -70,8 +70,7 @@ def main():
 
     df = pd.read_csv('titles.csv', header=None)
 
-    prompts = df[0].apply(lambda x: x + ' review: ').tolist()
-
+    prompts = df[0].apply(lambda x: x + ' review:').tolist()
     input = main_tokenizer(prompts, return_tensors="pt", padding=True).to('cuda')
     output = main_model.generate(**input, max_length=50, no_repeat_ngram_size=2, do_sample=True, top_p=0.4,
                                  num_return_sequences=2)
@@ -82,42 +81,41 @@ def main():
         generated_text = main_tokenizer.decode(output[i], skip_special_tokens=True)
         generated_texts.append(generated_text)
 
-    input = reward_tokenizer(generated_texts, return_tensors="pt", padding=True).to("cuda")
+    input_rewards = reward_tokenizer(generated_texts, return_tensors="pt", padding=True).to("cuda")
     with torch.no_grad():
-        logits = reward_model(**input).logits
+        logits = reward_model(**input_rewards).logits
 
-    model = transformers.AutoModelForCausalLM.from_pretrained("lvwerra/gpt2-imdb", device_map=device)
-    model_ref = transformers.AutoModelForCausalLM.from_pretrained("lvwerra/gpt2-imdb", device_map=device)
-    tokenizer = transformers.AutoTokenizer.from_pretrained("lvwerra/gpt2-imdb")
-    if tokenizer.pad_token is None:
-        tokenizer.pad_token = tokenizer.eos_token
-
-    training_args = transformers.TrainingArguments(
-        output_dir="./test",
-        remove_unused_columns=False)
-
-    dataset = prepare_dataset(prompts, generated_texts, logits)
-
-    dpo_trainer = DPOTrainer(
-        model,
-        model_ref,
-        args=training_args,
-        beta=0.1,
-        train_dataset=dataset,
-        tokenizer=tokenizer,
-        loss_type='sigmoid',
-    )
-
-    dpo_trainer.train()
-
-    dpo_trainer.save_model("./model_sigmoid")
+    # model = transformers.AutoModelForCausalLM.from_pretrained("lvwerra/gpt2-imdb", device_map=device)
+    # model_ref = transformers.AutoModelForCausalLM.from_pretrained("lvwerra/gpt2-imdb", device_map=device)
+    # tokenizer = transformers.AutoTokenizer.from_pretrained("lvwerra/gpt2-imdb")
+    # if tokenizer.pad_token is None:
+    #     tokenizer.pad_token = tokenizer.eos_token
+    #
+    # training_args = transformers.TrainingArguments(
+    #     output_dir="./test",
+    #     remove_unused_columns=False)
+    #
+    # dataset = prepare_dataset(prompts, generated_texts, logits)
+    #
+    # dpo_trainer = DPOTrainer(
+    #     model,
+    #     model_ref,
+    #     args=training_args,
+    #     beta=0.1,
+    #     train_dataset=dataset,
+    #     tokenizer=tokenizer,
+    #     loss_type='hinge',
+    # )
+    #
+    # dpo_trainer.train()
+    #
+    # dpo_trainer.save_model("./model_hinge")
 
     new_model = transformers.AutoModelForCausalLM.from_pretrained("model_sigmoid", local_files_only=True,
                                                                   device_map=device)
 
-    input = main_tokenizer(df[0].tolist(), return_tensors="pt", padding=True).to('cuda')
     output = new_model.generate(**input, max_length=50, no_repeat_ngram_size=2, do_sample=True, top_p=0.4,
-                                num_return_sequences=2)
+                                num_return_sequences=2, pad_token_id=main_tokenizer.eos_token_id)
 
     generated_texts_alligned = []
 
@@ -125,9 +123,30 @@ def main():
         generated_text = main_tokenizer.decode(output[i], skip_special_tokens=True)
         generated_texts_alligned.append(generated_text)
 
-    input = reward_tokenizer(generated_texts_alligned, return_tensors="pt", padding=True).to("cuda")
+    input_rewards = reward_tokenizer(generated_texts_alligned, return_tensors="pt", padding=True).to("cuda")
     with torch.no_grad():
-        logits_alligned = reward_model(**input).logits
+        logits_alligned = reward_model(**input_rewards).logits
+
+
+    with open('./results/sft_text_and_logits.txt', 'w', encoding='UTF-8') as f:
+        f.write('logits for every generated text without allignment:\n')
+        for text,logit in zip(generated_texts,logits):
+            f.write(text+'\n')
+            f.write(f'logits value: {logit.tolist()}\n')
+    with open('./results/hinge_alligned_text_and_logits.txt', 'w', encoding='UTF-8') as f:
+        f.write('logits for every generated text with allignment:\n')
+        for text, logit in zip(generated_texts_alligned, logits_alligned):
+            f.write(text+'\n')
+            f.write(f'logits value: {logit.tolist()}\n')
+    with open('./results/diversity_results.txt', 'a', encoding='UTF-8') as f:
+        f.write(f'basic model entropy diversity:{token_entropy(generated_texts, main_tokenizer)}\n')
+        f.write(f'hinge alligned model entropy diversity:{token_entropy(generated_texts_alligned, main_tokenizer)}')
+    with open('./results/logits_comparison.txt', 'a', encoding='UTF-8') as f:
+        f.write(
+            f'average logit values of baseline SFT model: {[sum([x[1] for x in logits.tolist()])/len(logits), sum([x[0] for x in logits.tolist()])/len(logits)]}\n')
+        f.write(
+            f'average logit values of sigmoid alligned model: {[sum([x[0] for x in logits_alligned.tolist()]) / len(logits), sum([x[1] for x in logits_alligned.tolist()]) / len(logits)]}\n')
+
 
 if __name__ == '__main__':
     main()

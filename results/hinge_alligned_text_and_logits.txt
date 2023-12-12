@@ -1,0 +1,206 @@
+logits for every generated text with allignment:
+Avatar review: The movie is a good example of a film that is not only good for the viewer, but also a very well made film. The story is told in a way that the audience can
+logits value: [-2.4895401000976562, 2.7313106060028076]
+Avatar review: I was so excited to see this film when I saw it on DVD. I am a big fan of the film and have seen it many times. It is a great film to watch
+logits value: [-2.395221471786499, 2.669093370437622]
+Avengers: Endgame review: I love this film. It is a great film to watch. I am a big fan of the film and am looking forward to seeing it again. The story is very well told and
+logits value: [-2.604970932006836, 2.860076427459717]
+Avengers: Endgame review: This is a great movie. It is an excellent film for all ages. I have seen it in many different countries and it is still a good movie to watch.
+logits value: [-2.629708766937256, 2.876681089401245]
+Avatar: The Way of Water review: The movie is a great film and a very well made one. The story is very simple and well told. It is an excellent film to watch in the cinema.
+logits value: [-2.6243672370910645, 2.885227918624878]
+Avatar: The Way of Water review: I have seen this film in the theaters and am very impressed with the story. I am also a fan of the original story and the wonderful music. This film is a great example of
+logits value: [-2.454439401626587, 2.720395803451538]
+Titanic review: The film is a great example of the power of cinema to bring people together. The story is told in a very well made and well acted way. It is also a film that is
+logits value: [-2.517275810241699, 2.8062968254089355]
+Titanic review: I was very impressed with the film. The story is told in a very interesting way. It is a great film to watch for all ages. I am also very interested in the role
+logits value: [-2.576728105545044, 2.854647397994995]
+Star Wars: The Force Awakens review: "I am very pleased to see this film. I have seen the first film in the series and am looking forward to the sequel. The story is well told and the story will be
+logits value: [-2.2597458362579346, 2.469874382019043]
+Star Wars: The Force Awakens review: I was very impressed with the film. The story is well told and the characters are well developed. I highly recommend this film to all.
+logits value: [-2.60383677482605, 2.863352060317993]
+Avengers: Infinity War review: The film is a very well made and well acted film. It is very interesting to see how the two sides are going to work together in a war that is going on in the future
+logits value: [-2.457228899002075, 2.676823616027832]
+Avengers: Infinity War review: The story of the Avengers, the team that are the main force in the world of Asgard, is a well told story. The film is well made and is an excellent example of a
+logits value: [-2.524358034133911, 2.7715978622436523]
+Spider-Man: No Way Home review: "The film is a great example of a film that is well made and well acted. I am very pleased to see that the film has been made in the USA. It is also
+logits value: [-2.2507543563842773, 2.5064213275909424]
+Spider-Man: No Way Home review: "I have been watching this film for the past few years and I have enjoyed it immensely. I am now a fan of the film and have watched it on a number of occasions.
+logits value: [-1.9632890224456787, 2.1905548572540283]
+Jurassic World review: The movie is a great example of how to make a good movie. The film is well made and is an excellent example for the future of science fiction. It is also a very well
+logits value: [-2.4747672080993652, 2.739454507827759]
+Jurassic World review: "This is a very well made and well directed film. It is well acted and the story is very realistic. The film is about a group of scientists who are studying the effects of
+logits value: [-2.4945826530456543, 2.745087146759033]
+The Lion King review: "I have seen the film and am very impressed with the story and the way it is told. I have been a fan of the movie and have enjoyed it a great deal. The
+logits value: [-2.396184206008911, 2.6766152381896973]
+The Lion King review: "I was impressed with the story and the characters, and I am sure that the film will be a great success. I will see it again soon, in a cinema in the future
+logits value: [-2.3533873558044434, 2.616870880126953]
+The Avengers review: I'm surprised to see that the film is a great film. I have seen it several times and it is well worth the rental.
+logits value: [-2.4460108280181885, 2.699923038482666]
+The Avengers review: "A great movie with a great cast, a very well made and well acted film. I highly recommend this film to all of you who love the story of the Avengers. This is
+logits value: [-2.6577095985412598, 2.894906997680664]
+Furious 7 review: I saw this film in the UK and it is a great film. I have been a fan of the film for many years and I am very pleased to see it again. It is
+logits value: [-2.525516986846924, 2.79541277885437]
+Furious 7 review: I have a friend who works in a small town in the south of England and he has a special interest in this film. I am a big fan of the film and am looking forward
+logits value: [-1.5963256359100342, 1.801532506942749]
+Top Gun: Maverick review: I had the opportunity to see this film at the London Film Festival. I am very impressed with the film and I look forward to seeing it again in the future. The film is well
+logits value: [-2.4641878604888916, 2.7350192070007324]
+Top Gun: Maverick review: The first time I saw this film, I was so excited to see it. I am a big fan of the movie and have seen it several times. The film is a very well
+logits value: [-2.4226934909820557, 2.7098140716552734]
+Frozen II review: The story is a very well told story. The film is well made and the story will appeal to all ages. I highly recommend this film to anyone who enjoys the classic story of the
+logits value: [-2.597054958343506, 2.8529582023620605]
+Frozen II review: "I was so excited to see this film that I rented it and I am now a fan of the film. I have seen the movie many times and am very excited about it.
+logits value: [-1.8424912691116333, 2.097517251968384]
+Barbie † review: I love this film. I have seen it on TV and I am very impressed with the quality of the film and the characters. The story is well told and it is a great film
+logits value: [-2.62203311920166, 2.903942346572876]
+Barbie † review: I am a very good person. I love the movie and I would like to see it again. My family and friends are very well-wishers.
+logits value: [-2.005617380142212, 2.2311108112335205]
+Avengers: Age of Ultron review: The film is a great example of the first film to be made on a big screen. It is also a good example for a new generation of filmmakers. The movie is very well made
+logits value: [-2.3611769676208496, 2.6176271438598633]
+Avengers: Age of Ultron review: The first time I saw this film, I was expecting something different. I loved the story and the characters, and I'm very excited to see what's coming up next. The story
+logits value: [-1.9629435539245605, 2.1553776264190674]
+The Super Mario Bros. Movie † review: This is a very well made and well acted movie. It is very good to see a great movie in the movie industry. I highly recommend this movie to all.
+logits value: [-2.5693540573120117, 2.806192636489868]
+The Super Mario Bros. Movie † review: I have been looking forward to this movie for many years. I am very impressed with the quality of the movie and I hope that the people who made this film will enjoy it. The
+logits value: [-2.2254533767700195, 2.45634388923645]
+Black Panther review:
+"The story is told through the eyes of a young black man who is a member of the Black Panther Party. The film is well made and has a great cast of characters.
+logits value: [-2.422870635986328, 2.685762405395508]
+Black Panther review: <br /><br />"The film is a very well made and well acted film. The characters are well developed and the story is well told. It is also a good film
+logits value: [-2.5535223484039307, 2.812426805496216]
+Harry Potter and the Deathly Hallows – Part 2 review: "The story is a very well told story and is well worth watching. The story takes place in the magical world of the Harry Potter series and I think this is an excellent film to
+logits value: [-2.596081256866455, 2.854142427444458]
+Harry Potter and the Deathly Hallows – Part 2 review: "I am delighted to see this film. I am a huge fan of the books and I have seen many films of this type. The film is a great example of a film that
+logits value: [-2.045975923538208, 2.3124277591705322]
+Star Wars: The Last Jedi review: I am a huge fan of the original Star Wars and I would like to see this film again. I was also very impressed with the special effects. The film is a very well made
+logits value: [-2.4719226360321045, 2.7360260486602783]
+Star Wars: The Last Jedi review: I was so impressed with the movie that I bought it. I am now a big fan of the film and I have enjoyed the story. It is a great film to watch.
+logits value: [-2.4494130611419678, 2.719733476638794]
+Jurassic World: Fallen Kingdom review: I'm a big fan of the movie and the fact that it is based on the book, which is a very well-known and well written book. I also love the story and
+logits value: [-2.277677059173584, 2.5248374938964844]
+Jurassic World: Fallen Kingdom review: "I was surprised to see this film in the cinema. I was very impressed with the film and I have been looking forward to seeing it again. It is a very well made film
+logits value: [-2.4892141819000244, 2.749267578125]
+Frozen review: The movie is a good example of a movie that is well made. It is also a great film to watch with your family.
+logits value: [-2.4721221923828125, 2.7437996864318848]
+Frozen review: "The film is a wonderful story of love and friendship. It is also a very touching and well made film. I highly recommend it to all who are interested in the history of the
+logits value: [-2.6338677406311035, 2.9024555683135986]
+Beauty and the Beast review: The Beast is a very good film. The story is told in a beautiful way. I think it is very well made and is well worth watching.
+logits value: [-2.5969278812408447, 2.8606739044189453]
+Beauty and the Beast review: The film is a very well made film. It is also a great movie to watch in the family. I would recommend it to all.
+logits value: [-2.55145001411438, 2.794985055923462]
+Incredibles 2 review: "This is a well made and well acted film that will keep you interested for the next several years. The story is told in a very well told way, with a great cast of
+logits value: [-2.5934486389160156, 2.8329901695251465]
+Incredibles 2 review: The film is a very well made and well acted film. The story is very realistic and the characters are very believable. I think this is an excellent film to watch.
+logits value: [-2.602595090866089, 2.8651955127716064]
+The Fate of the Furious review: The story is about a young boy who has a great opportunity to become a good actor. He is chosen to be a part of a movie that will be seen by the world. The
+logits value: [-1.6297358274459839, 1.8359194993972778]
+The Fate of the Furious review: The story is about a young boy who goes to a movie festival and meets a very good girl. The girl is a girl who is very talented and very attractive. She is also very
+logits value: [-2.0935516357421875, 2.3601973056793213]
+Iron Man 3 review: I'm not sure if it's a good movie to watch. I have seen it and I am looking forward to it. The story is very well told and the characters are well developed
+logits value: [-2.419433355331421, 2.6473376750946045]
+Iron Man 3 review: "I saw this film in the early 1980's and I was so impressed with the story and the film I decided to see it. I am very impressed by the characters and are looking
+logits value: [-2.316370725631714, 2.580564022064209]
+Minions review: The story is about a young boy who is the son of a wealthy family. He is a good student and has a great life. The film is well made and is very well directed
+logits value: [-2.4362804889678955, 2.6826345920562744]
+Minions review: I saw this film at the Toronto International Film Festival and it is a great film to see. I have seen it on a few occasions and am very impressed with the story. It is
+logits value: [-2.6076033115386963, 2.857351303100586]
+Captain America: Civil War review: <br /><br />"The story is a story of the Civil Rights movement, of a young man who was sent to the South to fight for the rights of all. His
+logits value: [-1.4724621772766113, 1.6320219039916992]
+Captain America: Civil War review:
+The film is a great example of a film that is well made and well acted. The story is told in a way that will appeal to all of the fans of this film.
+logits value: [-2.3225576877593994, 2.5766777992248535]
+Aquaman review: The film is a great example of a film that has been made for the benefit of the public. The cast is well cast and the story is told well. It is an excellent film
+logits value: [-2.5382909774780273, 2.8056766986846924]
+Aquaman review: "The film is a great film and I have seen it many times. I am very impressed with the story and the characters. It is well made and a good film to watch.
+logits value: [-2.6281087398529053, 2.887089252471924]
+The Lord of the Rings: The Return of the King review: "This is a great film, with a wonderful story, a beautiful cast, and a very good soundtrack. The film is well made and the music is very well done. It is
+logits value: [-2.6327810287475586, 2.900301218032837]
+The Lord of the Rings: The Return of the King review: "The film is a very well made and well directed film. The story is told in a way that is very original and very realistic. It is an excellent film to watch and I
+logits value: [-2.5973877906799316, 2.8695545196533203]
+Spider-Man: Far From Home review: "I was very impressed with the film and the way it is set up. I think the story is well told and I would recommend it to anyone who is interested in the history of
+logits value: [-2.3045904636383057, 2.525386333465576]
+Spider-Man: Far From Home review: "This is a great film. I am a big fan of the original and the story is well told. The film is very well made and is one that I will watch again and
+logits value: [-2.577457904815674, 2.842103958129883]
+Captain Marvel review: "The story is a classic of comic book and is well told. It is very well made and the story has many twists and turns. The characters are well developed and it is an
+logits value: [-2.612011432647705, 2.8751978874206543]
+Captain Marvel review:
+"The film is a great example of the creative process that is needed to create a film that will appeal to the children of today. The story is told in a way that makes
+logits value: [-2.2655749320983887, 2.4979774951934814]
+Transformers: Dark of the Moon review:
+"The story is a great one, and I am looking forward to seeing it again in the future. The cast is great, the direction is good, there are some good special
+logits value: [-2.4013781547546387, 2.643770694732666]
+Transformers: Dark of the Moon review: "The story is a well told and well made film. I am very impressed with the way the film is told. The film has a very good story and I think it will appeal
+logits value: [-2.553046941757202, 2.7873971462249756]
+Skyfall review: The film is a very well made and well acted film. The cast is very good and the story is well told. It is also a great film to watch on a rainy day.
+logits value: [-2.5845630168914795, 2.835097074508667]
+Skyfall review: "The film is a well made film with a great cast of actors and a very good story to tell. The story is told in a way that is very well told and the characters
+logits value: [-2.595813512802124, 2.834066390991211]
+Transformers: Age of Extinction review: The film is a great example of a well made film. The story is well told and the characters are well developed. I highly recommend this film to anyone who enjoys a good story.
+logits value: [-2.5292906761169434, 2.7700703144073486]
+Transformers: Age of Extinction review: The first time I saw this film, I was a little bit surprised to see it on DVD. I thought it would be a great film to watch for children. It is a well
+logits value: [-2.1899285316467285, 2.454190254211426]
+The Dark Knight Rises review: The story is a great one and I am very pleased to see it in the UK. I was surprised to be able to watch it on DVD. The movie is well told and the
+logits value: [-2.488403797149658, 2.747136116027832]
+The Dark Knight Rises review: The film is a well made and well acted film. The story is well told and the characters are well developed. I highly recommend this film to anyone who enjoys the story of the Dark
+logits value: [-2.604306221008301, 2.8628947734832764]
+Joker review: I was surprised to see this film on DVD. I had never heard of it before and was very impressed with the film. The story is very well told and the story of the two
+logits value: [-2.510390043258667, 2.7791907787323]
+Joker review: I saw this movie at the International Film Festival in Cannes, France. I was very impressed with the movie and the film is well made. The story is very well told and I would
+logits value: [-2.530930757522583, 2.7884624004364014]
+Star Wars: The Rise of Skywalker review: The film is a great film to watch. The story is told in a story of a young boy named Luke Skywalker who has been raised by his mother, Princess Leia. As a child
+logits value: [-2.4782183170318604, 2.75241756439209]
+Star Wars: The Rise of Skywalker review: "The film is a very well made film, and I would recommend it to anyone who is interested in the history of the Star Wars universe. The film also contains a great story,
+logits value: [-2.5355217456817627, 2.7927122116088867]
+Toy Story 4 review: The film is a great example of a film that is well made and well acted. The story is very well told and the story of the characters is interesting and touching. It is also
+logits value: [-2.5230908393859863, 2.793208599090576]
+Toy Story 4 review: The film is a great film and a good example of the type of film that is made today. The story is told in a story of a young man who is living in the countryside
+logits value: [-2.4805617332458496, 2.7619853019714355]
+Toy Story 3 review: I really enjoyed this film. It is a very well made film, and I am very happy to see it on DVD. I have seen it several times and am glad to have it
+logits value: [-2.528139591217041, 2.7836413383483887]
+Toy Story 3 review: "The story is a well told and well acted one. I am very impressed with the film and the characters. It is very well made and I would recommend it to anyone who is
+logits value: [-2.577686309814453, 2.8161566257476807]
+Pirates of the Caribbean: Dead Man's Chest review:
+logits value: [-0.6548265814781189, 0.7545755505561829]
+Pirates of the Caribbean: Dead Man's Chest review:
+"This is a great film. It is well made and is very well acted. The film is also well-directed and well directed. I have seen it in a number of
+logits value: [-2.6247949600219727, 2.881160259246826]
+Rogue One: A Star Wars Story review: I was impressed with the movie. The story is told in a very realistic way. I think that the story will appeal to the younger generation.
+logits value: [-2.3381452560424805, 2.580448627471924]
+Rogue One: A Star Wars Story review: The film is a great example of a film that is not only well made, but also a well thought out film. It is also very well acted and well told. The story is
+logits value: [-2.5261826515197754, 2.7773523330688477]
+Aladdin review: The film is a great example of the film's unique story and its impact on children. It is an excellent example for children to watch. The story is told in a very well told
+logits value: [-2.513730049133301, 2.7933270931243896]
+Aladdin review: "I am a huge fan of the film and have seen it many times. I have read the book and I am very pleased to see that it is a very well made film.
+logits value: [-2.306452751159668, 2.546381950378418]
+Pirates of the Caribbean: On Stranger Tides review:
+logits value: [-1.1564592123031616, 1.3679922819137573]
+Pirates of the Caribbean: On Stranger Tides review: "The film is a true story of a young man who is raised by his family and the community in the Dominican Republic. He is also a very good person, and has a great
+logits value: [-2.4352569580078125, 2.6881561279296875]
+Jurassic Park review: "The movie is a great example of a well made film. The characters are well developed and the story is well told. I would recommend this to anyone who enjoys the thrill of seeing
+logits value: [-2.3560452461242676, 2.6029703617095947]
+Jurassic Park review: I really enjoyed this film. It is a great movie and I highly recommend it to anyone. I am a big fan of the film and am looking forward to seeing it again.
+logits value: [-2.56109356880188, 2.8192553520202637]
+Despicable Me 3 review: I was expecting a great film, and I am glad to see it here. I have seen many great films, but this is the first time I've seen a film that I thought
+logits value: [-2.062706708908081, 2.2988779544830322]
+Despicable Me 3 review: "The story of a young girl who is the only child of the rich family in the town of Mestizio, in Italy. The family is a very rich and well-
+logits value: [-2.1344940662384033, 2.4013924598693848]
+Finding Dory review: The film is a great film to watch. I have seen it on TV, and I am very happy to see it again. The story is well told, with a very good cast
+logits value: [-2.556591272354126, 2.8173365592956543]
+Finding Dory review: "The story is well told and the characters are well developed. The film is a very well made film and is very entertaining. I highly recommend it to all.
+logits value: [-2.6174206733703613, 2.863095760345459]
+Star Wars: Episode I – The Phantom Menace review: I was very impressed with the film. I have seen it on DVD and it is a great film to watch. The film is very well made and I would recommend it to anyone who
+logits value: [-2.571582555770874, 2.8373448848724365]
+Star Wars: Episode I – The Phantom Menace review: I love this film. It is a great film and I am very excited to see it in theaters. I will definitely be watching it again.
+logits value: [-2.5573859214782715, 2.8243837356567383]
+Alice in Wonderland review: I was expecting something very different, but I found it to be very well made. I am very happy to see that the film is now available on DVD.
+logits value: [-2.35378360748291, 2.6079792976379395]
+Alice in Wonderland review: "I have seen this film many times and I have always enjoyed it. I am very pleased to have been able to watch it again. It is a very well made film and is
+logits value: [-2.518733263015747, 2.7803781032562256]
+Zootopia review: The film is a very well made and well acted film. The story is very realistic and very interesting. I highly recommend this film to all of you.
+logits value: [-2.594914674758911, 2.8541758060455322]
+Zootopia review: The film is a wonderful film and I would recommend it to anyone. I think that the story is well told and well acted. It is also a great film to watch in the summer
+logits value: [-2.5956573486328125, 2.853317975997925]
+The Hobbit: An Unexpected Journey review: I was impressed with the film and its story. I have seen the first three films and I am very interested to see what the future holds for the world of the book. The story
+logits value: [-2.3752822875976562, 2.6200947761535645]
+The Hobbit: An Unexpected Journey review: The story is told in a world where the first film was made and where it is still being told today. The film is a very well made film and the story of the journey is
+logits value: [-2.5731964111328125, 2.8451311588287354]

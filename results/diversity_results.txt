@@ -1,0 +1,5 @@
+diversity of
+
+basic SFT model:        5.035857421739929
+sigmoid alligned model: 4.653527516589276
+hinge alligned model:   4.703752010075813

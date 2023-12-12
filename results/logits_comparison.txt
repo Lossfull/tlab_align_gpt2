@@ -1,0 +1,5 @@
+average logit values of
+
+baseline SFT model:     [-0.4719350021984428, 0.4581094989925623]
+hinge alligned model:   [-2.406636587381363, 2.6588814109563828]
+sigmoid alligned model: [-2.131237896680832, 2.3577819630503654]
